@@ -1,0 +1,6 @@
+chicken~~~24~~~True
+beef~~~2~~~True
+pork~~~4~~~true
+~~~2~~~true
+~~~2~~~true
+beef~~~4~~~true

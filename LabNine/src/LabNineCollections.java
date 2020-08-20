@@ -48,7 +48,7 @@ public class LabNineCollections {
 			}
 			List<Double> somePrice = orderPrices;
 			for (Double prices : somePrice) {
-				System.out.printf(String.format("%f\n", prices));
+				System.out.printf(String.format("%.2f\n", prices));
 			
 			}
 			scnr.close();
